@@ -1,0 +1,49 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "username": "Paco Fernandez",
+            "password": "1234",
+            "email": "paco@gmail.com",
+            "ofers": true,
+            "country": "Spain",
+            "city": "Pamplona"
+        },
+        {
+            "id": 2,
+            "username": "Silvia Sanchez",
+            "password": "1234",
+            "email": "silvia@gmail.com",
+            "ofers": false,
+            "country": "Greece",
+            "city": "Atenas"
+        },
+        {
+            "id": 3,
+            "username": "Alex Ubago",
+            "password": "1234",
+            "email": "@gmail.com",
+            "ofers": false,
+            "country": "Hungary",
+            "city": "Budapest"
+        },
+        {
+            "id": 4,
+            "username": "Pablo Gutierrez",
+            "password": "1234",
+            "email": "@gmail.com",
+            "ofers": true,
+            "country": "Croatia",
+            "city": "Zagreb"
+        },
+        {
+            "id": 5,
+            "username": "Felipe Baldeon",
+            "password": "1234",
+            "email": "felipe@gmail.com",
+            "ofers": true,
+            "country": "France",
+            "city": "Paris"
+        }
+    ]
+}
