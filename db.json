@@ -1,49 +1,92 @@
 {
-    "usuarios": [
-        {
-            "id": 1,
-            "username": "Paco Fernandez",
-            "password": "1234",
-            "email": "paco@gmail.com",
-            "ofers": true,
-            "country": "Spain",
-            "city": "Pamplona"
-        },
-        {
-            "id": 2,
-            "username": "Silvia Sanchez",
-            "password": "1234",
-            "email": "silvia@gmail.com",
-            "ofers": false,
-            "country": "Greece",
-            "city": "Atenas"
-        },
-        {
-            "id": 3,
-            "username": "Alex Ubago",
-            "password": "1234",
-            "email": "@gmail.com",
-            "ofers": false,
-            "country": "Hungary",
-            "city": "Budapest"
-        },
-        {
-            "id": 4,
-            "username": "Pablo Gutierrez",
-            "password": "1234",
-            "email": "@gmail.com",
-            "ofers": true,
-            "country": "Croatia",
-            "city": "Zagreb"
-        },
-        {
-            "id": 5,
-            "username": "Felipe Baldeon",
-            "password": "1234",
-            "email": "felipe@gmail.com",
-            "ofers": true,
-            "country": "France",
-            "city": "Paris"
-        }
-    ]
+  "usuarios": [
+    {
+      "username": "Felipe Baldeon",
+      "email": "fbaldeon@gmail.com",
+      "password": "1234",
+      "password2": "1234",
+      "country": "France",
+      "city": "Paris",
+      "id": 10,
+      "ofers": true
+    },
+    {
+      "username": "Paco Mendez",
+      "email": "pmendez@gmail.com",
+      "password": "1234",
+      "password2": "1234",
+      "country": "Spain",
+      "city": "Pamplona",
+      "id": 2,
+      "ofers": true
+    },
+    {
+      "username": "Martin Perez",
+      "email": "mperez@gmail.com",
+      "password": "1234",
+      "password2": "1234",
+      "country": "United Kingdom",
+      "city": "Manchester",
+      "id": 3,
+      "ofers": true
+    },
+    {
+      "username": "Manolo Fernández",
+      "email": "manolo@gmail.com",
+      "password": "1234",
+      "password2": "1234",
+      "country": "Brazil",
+      "city": "Rio de Janeiro",
+      "id": 4,
+      "ofers": false
+    },
+    {
+      "username": "Igor Potente",
+      "email": "igor@gmail.com",
+      "password": "1234",
+      "password2": "1234",
+      "country": "Andorra",
+      "city": "Andorra ",
+      "id": 5,
+      "ofers": false
+    },
+    {
+      "username": "Cristina Alvarez",
+      "email": "calvarez@gmail.com",
+      "password": "1234",
+      "password2": "1234",
+      "country": "Bulgaria",
+      "city": "Sofia",
+      "id": 6,
+      "ofers": true
+    },
+    {
+      "username": "Carlos Castaz",
+      "email": "ccastaz@gmail.com",
+      "password": "1234",
+      "country": "Canada",
+      "city": "Toronto",
+      "id": 7,
+      "ofers": true
+    },
+    {
+      "username": "Carlos Perez",
+      "email": "cperez@gmail.com",
+      "password": "1234",
+      "country": "France",
+      "city": "Burdeos",
+      "id": 11,
+      "ofers": true
+    },
+    {
+      "username": "Car",
+      "email": "a@fdsf",
+      "password": "1234",
+      "password2": "1234",
+      "country": "Afghanistan",
+      "city": "fds",
+      "id": 12,
+      "ofers": false
+    }
+  ]
 }
